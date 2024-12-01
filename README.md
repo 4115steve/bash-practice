@@ -1,2 +1,1 @@
 # bash-practice
-# bash-practice
