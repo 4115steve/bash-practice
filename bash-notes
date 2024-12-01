@@ -11,3 +11,6 @@ to make files exicutable run this command in sudo or root
 to chane the name of a file use "mv" 
 "mv old-file-name new-file-name"
 
+to exicute a script in current directory use command 
+"./scriptname.sh"
+
