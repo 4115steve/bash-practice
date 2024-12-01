@@ -14,3 +14,5 @@ to chane the name of a file use "mv"
 to exicute a script in current directory use command 
 "./scriptname.sh"
 
+Bash scripts begin with "#!/bin/bash" this allows any shell
+to recognize that the file is a bash script
