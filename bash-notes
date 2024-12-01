@@ -8,4 +8,6 @@ end bash files with .sh
 to make files exicutable run this command in sudo or root
 "chmod +x myscript.sh"
 
+to chane the name of a file use "mv" 
+"mv old-file-name new-file-name"
 
