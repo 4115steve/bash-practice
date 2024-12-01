@@ -1,3 +1,11 @@
 Bash practice
 
+"ls -l" shows if i can read write or exicute files in the 
+directory
+
+end bash files with .sh
+
+to make files exicutable run this command in sudo or root
+"chmod +x myscript.sh"
+
 
